@@ -1,5 +1,6 @@
 local allowedDiscordIDs = {
-    "379314226608603139" --BTMN
+    "379314375608643989", --Put your discord ID here
+    "379314226608603139" --Put another discord ID here
 }
 
 local function getDiscordID(source)
