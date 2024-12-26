@@ -3,3 +3,5 @@
 
 Command:
 `/spawnhash <hashcode>`
+
+The command is permissions based and goes off discord IDs, you must go into the `server.lua` and at the top you'll find where you need to put your own discord IDs 👌
